@@ -1,0 +1,6 @@
+1,abc001,张三,true,1207497600000,141.0,NotAdmin
+2,abc002,李四,true,2131252454,0.0,DataAdmin
+3,abc003,小红,false,2131252454,55.0,MusicAdmin
+4,abc004,用户员,true,2131252454,160.0,UserAdmin
+5,abc005,系统员,true,2131252454,50.0,SystemAdmin
+55,abc055,阿希,true,1624498718044,0.0,NotAdmin
